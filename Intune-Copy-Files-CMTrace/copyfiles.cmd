@@ -1,0 +1,1 @@
+copy /Y .\cmtrace.exe %systemRoot%\
